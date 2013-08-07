@@ -30,7 +30,7 @@ import org.eclipse.egit.github.core.client.GitHubClient;
 public class DefaultClient extends GitHubClient {
 
     // test 2
-    
+    // test 3
 
     private static final String USER_AGENT = "GitHubAndroid/1.6";
 
