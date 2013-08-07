@@ -31,6 +31,7 @@ public class DefaultClient extends GitHubClient {
 
     // test 2
     // test 3
+    // test 4
 
     private static final String USER_AGENT = "GitHubAndroid/1.6";
 
